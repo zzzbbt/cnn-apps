@@ -61,7 +61,7 @@ rsa
 scikit-learn
 scipy
 six
-smmap==
+smmap
 streamlit
 tenacity
 tensorboard
