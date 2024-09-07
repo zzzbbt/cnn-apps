@@ -42,7 +42,7 @@ packaging
 pandas
 pillow
 pkgutil_resolve_name
-protobuf
+protobuf==3.19.0
 pyarrow
 pyasn1
 pyasn1_modules
