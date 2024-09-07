@@ -2,7 +2,6 @@ absl-py
 altair
 astunparse
 attrs
-blinke
 cachetools
 certifi
 charset-normalizer
